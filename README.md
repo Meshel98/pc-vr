@@ -47,12 +47,8 @@ numpy
 pyautogui
 mss
 
-### Highlights:
-- Emojis for visual appeal.
-- Organized sections for readability.
-- Example commands formatted as code blocks.
-- A professional structure for developers exploring your repository.
 
-Feel free to replace placeholders (`your-username`, `your.email@example.com`, etc.) with your actual information!
+
+Feel free to replace placeholders (`Meshel`, etc.) with your actual information!
 
 ![Skärmbild (393)](https://github.com/user-attachments/assets/340adb24-dfb1-46b1-9e9f-3af2adc94f31)
