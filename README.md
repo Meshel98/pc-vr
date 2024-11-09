@@ -33,19 +33,7 @@ A Python-based application for capturing, duplicating, and streaming your comput
    ```bash
    git clone https://github.com/your-username/screen-mirroring-server.git
    cd screen-mirroring-server
-Install the required Python dependencies:
 
-bash
-Kopiera kod
-pip install -r requirements.txt
-Contents of requirements.txt:
-
-Kopiera kod
-flask
-opencv-python
-numpy
-pyautogui
-mss
 
 
 ![Skärmbild (393)](https://github.com/user-attachments/assets/340adb24-dfb1-46b1-9e9f-3af2adc94f31)
