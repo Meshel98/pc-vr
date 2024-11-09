@@ -46,47 +46,6 @@ opencv-python
 numpy
 pyautogui
 mss
-2️⃣ Usage
-Run the application:
-
-bash
-Kopiera kod
-python server.py
-Open your web browser and visit:
-
-arduino
-Kopiera kod
-http://<your-computer-ip>:5000
-Replace <your-computer-ip> with the local IP address of your computer.
-
-🎥 Enjoy the real-time screen duplication!
-🔍 Preview
-Real-time Screen Feed:
-🖥️ Live View: The /video_feed endpoint streams your screen in real-time.
-🔄 Side-by-side Duplication: Enhances visibility by duplicating the screen horizontally.
-🎯 Mouse Tracking: Highlights the mouse cursor for added clarity.
-⚠️ Limitations
-High CPU Usage: Continuous screen capture and streaming may consume significant resources.
-No Security: The stream is accessible to anyone on the network without authentication.
-Browser Compatibility: Ensure your browser supports MJPEG streaming.
-🤝 Contributing
-Contributions are welcome! Feel free to:
-
-🐛 Report bugs
-🚀 Suggest new features
-📥 Submit pull requests
-📜 License
-This project is licensed under the MIT License. See the LICENSE file for more information.
-
-💡 Author
-Your Name
-📧 Email: your.email@example.com
-🌐 GitHub: your-username
-📝 Notes
-Have fun streaming your screen in real-time! If you encounter issues or have questions, feel free to open an issue in this repository. 😊
-
-markdown
-Kopiera kod
 
 ### Highlights:
 - Emojis for visual appeal.
