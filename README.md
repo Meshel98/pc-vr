@@ -60,14 +60,6 @@ http://<your-computer-ip>:5000
 Replace <your-computer-ip> with the local IP address of your computer.
 
 🎥 Enjoy the real-time screen duplication!
-
-📁 Folder Structure
-plaintext
-Kopiera kod
-screen-mirroring-server/
-├── server.py          # Main application script
-├── README.md          # Project documentation
-├── requirements.txt   # List of dependencies
 🔍 Preview
 Real-time Screen Feed:
 🖥️ Live View: The /video_feed endpoint streams your screen in real-time.
